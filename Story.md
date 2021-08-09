@@ -64,7 +64,7 @@ My Arduino code is in this repository as /SwitchPanelCode.ino. If you want to us
 ### Debug
 I used Windows' built-in joystick tool called "joy.cpl." You can find it through Control Panel, or just search for it in the Start Menu. Call it by its full name or it might not come up.
 
-![joy.cpl](/images/joy.cpl.jpg)
+![joy.cpl](/images/Joy.cpl.jpg)
 
 # Lessons Learned
 If I were to do this again, the main thing I would have done differently is I would have taken better care making sure the box would sit flat on the table. (It doesn’t currently and that’s very annoying.) The next thing that would have made it a lot easier is if I’d traced where to drill pilot holes for PCB spacers before soldering/attaching things instead of after. Also, I should have realized that I could solder the wires from the switches to the stripboard anywhere along each pin’s strip and chose to not solder them right next to each other. Finally, I would have done a more careful painting job on the outside, as the box’s paint is more visible than I thought. The internal lights work a treat and having one on either side gives even enough lighting.
